@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    width: 200px;
+}
+.gd{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: cursive;
+    position: relative;
+    background-image: "b.gif";
+   padding-left: 150px;
+}
